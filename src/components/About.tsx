@@ -22,7 +22,7 @@ export const About: React.FC = () => {
           {/* Left Narrative */}
           <div className="lg:col-span-7 space-y-6">
             <h3 className="text-2xl sm:text-3xl font-bold text-navy-950 leading-snug">
-              Bridging psychological insights with practical human resources and organizational operations.
+              Bridging insights with practical human resources and organizational operations.
             </h3>
 
             <p className="text-navy-600 leading-relaxed text-base sm:text-lg">
